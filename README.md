@@ -1,6 +1,6 @@
 # MUCRP
 
-Code for paper “Mining User Robust and Consistent Preference for Unified Cross Domain Recommendation”, TKDE 2024 (under review).
+Code for the paper submitted to TKDE 2024 (under review).
 
 
 
